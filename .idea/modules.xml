@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JSON/JSON.iml" filepath="$PROJECT_DIR$/../JSON/JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JWT.iml" filepath="$PROJECT_DIR$/JWT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MacUtils/MacUtils.iml" filepath="$PROJECT_DIR$/../MacUtils/MacUtils.iml" />
+    </modules>
+  </component>
+</project>
+
